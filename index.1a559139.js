@@ -1,0 +1,2 @@
+(()=>{const e=document.querySelector(".header__btn-call"),t=document.querySelector(".btn"),c=document.querySelector(".btn1"),d=document.querySelector("[data-modal]"),n=document.querySelector("[data-modal1]"),l=d.querySelector("[data-modal-close]"),o=n.querySelector("[data-modal-close]");function a(){d.classList.toggle("is-hidden")}function r(){n.classList.toggle("is-hidden")}e.addEventListener("click",a),t.addEventListener("click",a),c.addEventListener("click",r),l.addEventListener("click",a),o.addEventListener("click",r)})();
+//# sourceMappingURL=index.1a559139.js.map
